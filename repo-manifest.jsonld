@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jupyterhub/pamela/commit/0894fff26692355414b6e6080acd60ed56613355",
       "git:hexsha": "0894fff26692355414b6e6080acd60ed56613355",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T21:58:12.452236+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jupyterhub/pamela/commit/dd4c4c2c2fb4f2f32c1095393275a1d611fbc54d",
