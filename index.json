@@ -1,0 +1,11 @@
+{
+  "org": "jupyterhub",
+  "repo": "pamela",
+  "versions": [
+    {
+      "commit": "0894fff26692355414b6e6080acd60ed56613355",
+      "tag": "",
+      "parsed_at": "2026-10-21T21:58:12.452659+00:00"
+    }
+  ]
+}
